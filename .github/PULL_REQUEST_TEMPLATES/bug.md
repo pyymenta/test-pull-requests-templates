@@ -1,4 +1,4 @@
-### Context :bug:
+### Context
 
 **Qual o bug?**
 
